@@ -1,5 +1,5 @@
-# qWebTest
-qWebTest - Executable, built with Qt5, to automate web tasks (eg. create animated gif, screenshot, ssh)
+# qWebber
+qWebber - Executable, built with Qt5, to automate web tasks (eg. create animated gif, screenshot, ssh)
 
 GUI:
 
